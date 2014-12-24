@@ -1,4 +1,4 @@
-maptimesac
+Maptime Sacramento
 ==========
 
 A blog for Maptime Sacramento
